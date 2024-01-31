@@ -11,3 +11,6 @@ This project implements a stopwatch with features like start, stop, and reset. I
 - Start: Initiates the stopwatch.
 - Stop: Pauses the stopwatch.
 - Reset: Resets the stopwatch to zero.
+
+![image](https://github.com/gitikadhole/Stopwatch/assets/112191177/5222c003-1e00-4ca3-b9fe-30709823d76b)
+
